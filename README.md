@@ -1,0 +1,1 @@
+The kata for the Bowling Game problem solved using Javascript
