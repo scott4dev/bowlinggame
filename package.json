@@ -1,0 +1,14 @@
+{
+  "name": "bowlinggamekata",
+  "version": "1.0.0",
+  "description": "The Bowling Game Kata using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/jasmine-node/bin/jasmine-node spec/ --verbose"
+  },
+  "author": "Maccari Claudio",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
